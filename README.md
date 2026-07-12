@@ -1,5 +1,10 @@
 # MacOS settings
 
+# Install
+- Install Homebrew
+- Install GitHub Desktop
+  - Clone me
+
 # Uninstallable apps from Homebrew
 - ATOK
 - Logi Options.app
