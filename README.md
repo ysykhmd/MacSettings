@@ -1,4 +1,4 @@
-# MacOS settings
+# Mac settings
 
 # Install
 - Install Homebrew
